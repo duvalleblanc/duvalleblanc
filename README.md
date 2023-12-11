@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @leblancduval
 - 👀 I’m interested in Microsoft Azure Cloud Computing
 - 🌱 I have a YouTube where I Showcase my Journey (https://www.youtube.com/@duvalleblanc)
-- 💞️ I'm Looking to become an Azure Cloud Engineer
+- 💞️ I have a Personal Blog Where I Discuess my Thoughts on Azure https://duvalleblanc.ghost.io/
 - 📫 How to reach me LinkedIn @duvalleblanc
 
 <!---
