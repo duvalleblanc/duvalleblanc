@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @leblancduval
 - 👀 I’m interested in Microsoft Azure Cloud Computing
-- 🌱 I’m currently learning Azure 
-- 💞️ I’m looking to become an Azure Administrator
+- 🌱 I have a YouTube where I Showcase my Journey to Learning @duvalleblanc
+- 💞️ I'm Looking to become an Azure Cloud Engineer
 - 📫 How to reach me LinkedIn @duvalleblanc
 
 <!---
