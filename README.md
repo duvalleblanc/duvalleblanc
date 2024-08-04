@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @duvalleblanc
-- ☁️ I’m interested in Web Development.
+- ☁️ I’m interested in Web Development
 - ✨ My Resume can be viewed here > https://dleblancstorage.z13.web.core.windows.net
 - ▶️ I have a YouTube where I Showcase my Work and Thoughts (https://www.youtube.com/@duvalleblanc)
 - 📷 I have an Instagram where I post cool pics and shorts https://instagram.com/duvalleblanc
