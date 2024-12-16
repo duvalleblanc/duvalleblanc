@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @duvalleblanc
-- ☁️ I’m Working in Web Development
-- ✨ My Resume can be viewed here > https://duvalleblanc.github.io/Resume/
+- ☁️ I enjoy Web Development
+- ✨ My Personal Site can be viewed here > https://glitch.com/~duvalleblanc
 - ▶️ I have a YouTube where I Showcase my Work and Thoughts (https://www.youtube.com/@duvalleblanc)
 - 🤝 My Code Academy Full Stack Engineer Profile is here https://www.codecademy.com/profiles/duvalleblanc
 
